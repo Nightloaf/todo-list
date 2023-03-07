@@ -1,12 +1,15 @@
 {
-    "name": "my-todo-list",
-    "title": "To Don't",
-    "description": "A simple module which adds a user specific to do list.",
-    "authors": [
-      {
-        "name": "Nightloaf"
-      }
+  "id": "ToDolist",
+  "title": "ToDolist, my first module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "authors": [
+    {
+    "name": "Nightloaf"
+    }
     ],
-    "version": "1",
-    "minimumCoreVersion": "10.0.0"
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
   }
+}
